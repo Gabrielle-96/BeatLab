@@ -4,7 +4,8 @@ Projeto desenvolvido durante o curso da Alura - JavaScript para Web: Crie págin
 :construction: Projeto concluído :construction:
 
 <h4> O BeatLab está disponível em: </h4>
-<a href="https://beat-lab-alpha.vercel.app/" target="_blank">BeatLab</a>
+:pushpin: <a href="https://beat-lab-alpha.vercel.app/" target="_blank">BeatLab</a>
+<br>
 
 :computer: Tecnologias utilizadas: 
 <ul>
